@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A brief collection of some memorandums: or, Things humbly offered to the consideration of the members of the great convention and of the succeeding Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A77411</idno>
+            <idno type="STC">Wing B4555A</idno>
+            <idno type="STC">ESTC R173274</idno>
+            <idno type="EEBO-CITATION">43663151</idno>
+            <idno type="OCLC">ocm 43663151</idno>
+            <idno type="VID">171932</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A77411)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 171932)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2602:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A brief collection of some memorandums: or, Things humbly offered to the consideration of the members of the great convention and of the succeeding Parliament.</title>
+               </titleStmt>
+               <extent>15 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed in the Year 1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Imperfect: stained, torn, and with print show-through and slight loss of text.</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anti-Catholicism --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  Legal status, laws, etc. --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  James II, 1685-1688 --  Sources.</term>
+               <term>Great Britain --  Politics and government --  1660-1688 --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2011-04</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:171932:1"/>
+            <head>A Brief Collection of ſome Memorandums: OR, Things humbly Offered to the Conſideration of the Members of the Great Convention, and of the ſucceeding Parliament.</head>
+            <head type="sub">
+               <hi>ADVERTISEMENT.</hi> This Collection was deſigned for the Great Convention at their firſt Sitting, but by a Miſcarriage was delayed; however, the worthy Author thought it not altogether unſeaſonable to offer it to the Conſideration of the Members of this preſent Parliament.</head>
+            <p n="1">(1.) TOuching the Preſent State of the Kingdom, into which we are brought by the moſt wonderful works of God lately wrought among us, The Deſign of this Paper permits not to enlarge. They, who pleaſe, may peruſe <hi>Pſal.</hi> 2.10, 11, 12. <hi>Pſal.</hi> 102.15. to
+<hi>v.</hi> 23. <hi>Pſal.</hi> 118.23. <hi>Rev.</hi> 19.1, 2, <hi>&amp;c.</hi>
+            </p>
+            <p n="2">(2.) By general conſent of the late printed Papers, The two great evils lately feared, and to be obviated, are <hi>Popery</hi> and <hi>Slavery.</hi>
+            </p>
+            <p n="3">(3.) What then is to be done? <hi>Quid igitur agendum?</hi> an old <hi>Athenian</hi> Queſtion fit in this caſe to be decided only by
+<pb n="2" facs="tcp:171932:2"/>the <hi>Supreme Authority:</hi> — But ſome Particulars (among ma<g ref="char:EOLhyphen"/>ny which wiſer men may ſuggeſt) are humbly propounded to conſideration. In a great Fire kindled, every one is allowed to bring his Bucket of water.</p>
+            <p n="1">(I.) As to <hi>Popery,</hi> and for preventing its return, may it be conſidered,</p>
+            <p n="1">(1.) Whether there ſhould not be a Bill of <hi>Excluſion,</hi>
+               <note place="margin">Vide
+<hi>13</hi> Eliz. c. <hi>13.</hi>
+               </note> larger than the former endeavoured in Parliament,
+<hi>viz.</hi> to render any Papiſt uncapable of Reigning here? If the former Bill had paſſed, ſome think our late and preſent dangers, had been in a great meaſure prevented. They who oppoſed that Bill, do now ſee what have been the effects and conſequents of its not paſſing, and the extreme danger of the Kingdom has put them and others upon ſuch a courſe, as ſeems to ſome, to have out-done all the ſo often decryed proceedings of 1641. — One day teaches another, and the latter goes to School to to the former.</p>
+            <p>And as a branch of ſuch new Bill, were it not meet to pro<g ref="char:EOLhyphen"/>vide againſt the Linſey-Woolſey marriages of our Proteſtant Princes with Papiſts? The World is wide enough; Fit Pro<g ref="char:EOLhyphen"/>teſtant Matches for them may be found.</p>
+            <p n="2">(2.) That Papiſts be rendred uncapable of (at leaſt) great Offices in the Kingdom.</p>
+            <p n="3">(3.) That it be made very Penal for Jeſuites to come upon Engliſh ground. It may be, Caſtration might be a better re<g ref="char:EOLhyphen"/>medy than Death. They are the known Boutefeu's of the World; And even ſome Popiſh Governments ſuffer them not.</p>
+            <p n="4">(4.) That Great endeavours be uſed for inſtructing the People in the principles of Chriſtian Religion, and arming them by ſound Doctrine, and eſpecially by ſincere Converſion to God, againſt the errors of Popery.</p>
+            <p n="5">(5.) That to this end, a Godly Miniſtry be ſought and en<g ref="char:EOLhyphen"/>couraged. 'Tis a miſerable defect in the Miniſtry of a Na<g ref="char:EOLhyphen"/>tion, where any evidence of Regeneration is not ſo much, as deſired in the Miniſters; nor made any qualification of the Perſons admitted. If with out Regeneration no man enters into the Kingdom of God, <hi>i. e.</hi> becomes a true Chriſtian (which ſeems a conſiderable part of the meaning of thoſe
+<pb n="3" facs="tcp:171932:2"/>words of our Saviour to <hi>Nicodemus,</hi>) then ſurely, this ſhould be deſired in all Candidates to the Miniſtry: Whereas (accord<g ref="char:EOLhyphen"/>ing to ordinary practices) a very ſmall portion of ſaecular learn<g ref="char:EOLhyphen"/>ing procures Admiſſion by Ordination; And we have too many Miniſters, who are not Chriſtians in Chriſt's ſenſe; Yea, who do not ſo much, as pretend to any internal <hi>Regene<g ref="char:EOLhyphen"/>ration</hi> but are far from the Kingdom of God, immerſed in
+<hi>Vice,</hi> haters of perſons and things which are good. This in<g ref="char:EOLhyphen"/>tends no reflection upon the worthy and good Miniſters of the Church of <hi>England.</hi>
+            </p>
+            <p n="6">(6.) Many good men wiſh, with the principal Biſhops in the beginning of Queen
+<hi>Elizabeth</hi>'s Reign (ſuch as <hi>Jewel, Sands, Horn, Coxe, Grindal</hi> and (before them)
+<hi>Hooper</hi>)
+<q rend="margQuotes">That the <hi>Popiſh Veſtments,</hi> with all the other remnants of Popery, might be thrown out of the Churches, and out of the minds of the People; See Dr.
+<hi>Burnet</hi>'s Letters; Firſt Letter <hi>pa.</hi> 42, 43, 44.</q>
+            </p>
+            <p n="7">(7.) There is nothing which has a more <hi>Natural</hi> and <hi>Moral</hi> tendency to both the evils lately complained of, (<hi>i.e. Popery</hi> and <hi>Slavery,</hi>) than the abounding of wickedneſs in the Land. It may be queſtioned, whether the Nation was more vitious in the an<g ref="char:EOLhyphen"/>cient times of Paganiſm or Popery, than it hath been of late under Proteſtancy (though this is the Doctrine of God our Saviour) — Vice and ſenſuality prepare men to hate and de<g ref="char:EOLhyphen"/>ſert the Goſpel, (which condemns them in all thoſe wicked practices, that they reſolve to perſiſt in) and to embrace Po<g ref="char:EOLhyphen"/>pery, which offers them ſo many <hi>Wiſe Medicines,</hi> and reliefs againſt ſin and its guilt, without troubling them with the har<g ref="char:EOLhyphen"/>der taks of Faith, Repentance and Reformation of Life. And it's not much to be doubted, but it has been a piece of <hi>Modern Policy</hi> to prepare the Kingdom both for <hi>Popery</hi> and
+<hi>Sla<g ref="char:EOLhyphen"/>very</hi> by an induſtrious promoting of Vice and Immorality. That it hath lately fallen out, that the whole <hi>Nation</hi> (good and bad) as one Man hath been ſo unanimous and zealous for Proteſtant Religion in oppoſition to <hi>Popery,</hi> doth not evince, that Vice prepares not for <hi>Popery;</hi> but is to be conſidered as a <hi>Stupendious</hi> and
+<hi>Extraordinary</hi> working of the <hi>Divine Provi<g ref="char:EOLhyphen"/>dence,</hi> ſuch as 'tis hard to parallel out of Hiſtory: — And be<g ref="char:EOLhyphen"/>ſides, this may make even the worſt of men ſtand up for Pro<g ref="char:EOLhyphen"/>teſtant
+<pb n="4" facs="tcp:171932:3"/>Religion againſt <hi>Popery, viz.</hi> becauſe <hi>Popery</hi> threatens the loſs of <hi>Church-Lands,</hi> and other emoluments, and is a more coſtly Religion than
+<hi>Proteſtancy,</hi> Prieſtly Abſolution, admiſſi<g ref="char:EOLhyphen"/>on to the Sacrament, Burial in ſure and certain hope, <hi>&amp;c.</hi> are to be had among ſome Proteſtants upon cheaper terms, than the undergoing of impoſed <hi>Penances</hi> and Freedom from an imaginary
+<hi>Purgatory,</hi> among the <hi>Papiſts.</hi> Popiſh Pardons muſt be well paid for; and when purchaſed, what are they worth?</p>
+            <p>And then ſecondly; How does Vice debaſe mens ſpirits, and render a Nation <hi>tanquam ad ſervitutem natam?</hi> Few gene<g ref="char:EOLhyphen"/>rous Thoughts tending to their Country's freedom and good, lodge in ſenſual breaſts, or ariſe out of the fumes of a conſtant <hi>Intemperance.</hi> The wiſe and good Patriots are virtuous, and read ſomewhat elſe beſides <hi>Plays, Romances,</hi> or an <hi>Obſervator.</hi> And as <hi>Debauchery</hi> naturally diſpoſes to
+<hi>Slavery;</hi> ſo alſo mo<g ref="char:EOLhyphen"/>rally: For, when men give up themſelves to be ſlaves to their Luſts, God (if they repent not) will make them ſlaves to <hi>Rulers.</hi>
+            </p>
+            <p>'Tis a Grave Obſervation of Dr. <hi>Burnet</hi> concerning the Ci<g ref="char:EOLhyphen"/>ty of
+<hi>Strasburgh,</hi>
+               <note place="margin">See his 4th Let. <hi>p.</hi> 222.</note> That before they loſt their Liberty, and fell under the <hi>French</hi> Yoke, Corruption in Morals had over<g ref="char:EOLhyphen"/>ſpread the whole City; together with a popular Pride, and Self-confidence. To ſay, We are a moſt vicious and ſinful People, is not, nor is intended to reproach our Nation. It's too manifeſt to be denyed; we declare our ſin, as <hi>Sodom.</hi> Vice hath, from an <hi>Impure Fountain,</hi> over-ſpread the whole Nation.</p>
+            <p n="1">(1.) I have known one of the condition but of a Day-Labourer, who with impunity and impudence owned himſelf to keep a Miſs in his Cottage, in compliance with Great Examples.</p>
+            <p n="2">(2.) Such Helliſh Swearing, Curſing and Blaſphemy ſcarce ever filled the Air of any Climate, as here. <hi>The Devils believe &amp; tremble,</hi> and have ſuch preſages of the great day of <hi>Judg<g ref="char:EOLhyphen"/>ment,</hi> that they deprecate their being <hi>Tormented before the time;</hi> ſo far are they from imprecating <hi>their own damna<g ref="char:EOLhyphen"/>tion.</hi>
+            </p>
+            <p n="3">(3.) Drinking <hi>Healths</hi> hath filled all places with vomit, and ſometimes with
+<hi>Bloud-ſhed,</hi> and ſlaughter, the effect of
+<pb n="5" facs="tcp:171932:3"/>Drunken Quarrels. I enlarge no farther, as were eaſy to do; and nothing could excuſe for ſaying ſo much of this in an in<g ref="char:EOLhyphen"/>tended <hi>Breviate,</hi> but that certainly, there is nothing ſo <hi>Neceſ<g ref="char:EOLhyphen"/>ſary</hi> to the Nations welfare, as <hi>Repentance</hi> and
+<hi>Reformation;</hi> ſee, if you pleaſe, <hi>Luke</hi> 13.3, 5. and <hi>Jer.</hi> 18.
+<hi>verſe</hi> 6, 7, 8, 9, 10. <hi>&amp;c.</hi>
+            </p>
+            <p>For remedy againſt the Debauchery, (which has been appa<g ref="char:EOLhyphen"/>rently encreaſing almoſt theſe Thirty years) the things next mentioned are heartily and humbly wiſhed.</p>
+            <p n="1">(1.) That there may be appointed ſolemn humiliation, Faſt<g ref="char:EOLhyphen"/>ing and Prayer throughout the Kingdom. And what if the Miniſters (ſuch as are able) might in ſo extraordinary a caſe and duty, be allowed the uſe of their own gifts, without be<g ref="char:EOLhyphen"/>ing limited by ſome new Collects?</p>
+            <p n="2">(2.) That the Court may be exemplary for Sobriety and Vertue. If Whoring, Healthing, Swearing and Curſing <hi>&amp;c.</hi> be diſcountenanced there, it will be a ſignal and publique Bleſſing, <hi>Regis ad exemplum totus, &amp;c.</hi> And ſo, if the Nobility and Gentry would follow the good example of a temperate and vertuous Prince, how happy might we be!</p>
+            <p n="3">(3.) Good Juſtices of the Peace, and inferior Magiſtrates of all ſorts. What Heart can a Drunken, Swearing, or Whor<g ref="char:EOLhyphen"/>ing Juſtice have to puniſh; or with what face can he puniſh thoſe <hi>Vices</hi> in others?</p>
+            <p n="4">(4.) Good Miniſters; of which ſomewhat before.</p>
+            <p n="5">(5.) Good Laws made and executed againſt the <hi>Vices</hi> of the times, without ſuch little Penaltys annexed, as rather en<g ref="char:EOLhyphen"/>courage to them, than deter from them.</p>
+            <p n="6">(6.) Some Law for ejecting Juſtices of Peace, and inferior Magiſtrates for common Swearing, Drunkenneſs, Whoring and other groſs Debauchery's (if commonly practiſed) upon conviction by a Jury.</p>
+            <p n="7">(7) Some like remedy for ſcandalous Miniſters.</p>
+            <p n="8">(8.) Some wiſh for a Law againſt lend, profane, and la<g ref="char:EOLhyphen"/>ſcivious <hi>Plays.</hi>
+            </p>
+            <p>If any of theſe ſeem to any to be points of too high a <hi>Re<g ref="char:EOLhyphen"/>formation</hi> for the preſent ſeaſon <hi>&amp; in faece Romuli,</hi> to him, who humbly Offers them to conſideration, it ſhall be ſufficient to have willed and wiſht them: And they muſt
+<pb n="6" facs="tcp:171932:4"/>be waited for, until we come nearer to the time of the new <hi>Jeruſalem;</hi> for it's hoped that by that time, or be<g ref="char:EOLhyphen"/>fore it, <hi>The Kingdoms</hi> of this World will become the Kingdoms of our Lord and of his Chriſt, <hi>&amp;c.</hi>
+            </p>
+            <p n="8">(8.) <hi>Laws</hi> againſt Proteſtant Diſſenters as ſuch, and the ſe<g ref="char:EOLhyphen"/>vere
+<hi>Execution</hi> of them (as ſome think) have been and ever will be of an apparent tendency both to <hi>Popery</hi> and <hi>Slavery,</hi> and to every thing elſe that's naught. Papiſts (as ſince ap<g ref="char:EOLhyphen"/>pears) induſtriouſly promoted ſome of them. The Deſign of this Paper allows not long diſcourſe about Liberty of Con<g ref="char:EOLhyphen"/>ſcience. Books have been written Pro and Con. Chriſts Doctrine abhors Perſecution for Religion; and Perſecution of Proteſtants by Proteſtants for Non-conformity to things, which the one part confeſſes in their own nature
+<hi>indifferent,</hi> &amp; the other believes and avows (judging onely for themſelves, without cenſuring others) to be uninſtituted and ſinful, is moſt unnatural, as well as
+<hi>
+                  <g ref="char:V">Ʋ</g>nproteſtantly.</hi> A Dog (they ſay) will not eat of a Dog. — Laws intended againſt Papiſts have been interpreted and executed againſt Proteſtants, together with other Laws expreſly made againſt Diſſenting Proteſtants. Peaceable and Religious meetings beyond all expreſs Laws, and, to eek them out as not ſufficiently ſevere, have been arbitra<g ref="char:EOLhyphen"/>rily puniſhed as <hi>Riots.</hi> Do theſe things pleaſe God, becauſe they pleaſe wicked, or ſuperſtitious men? —Scarce any Law (as ſome think) has made a more direct invaſion upon <hi>Magna Charta,</hi> than thoſe againſt <hi>Conventicles;</hi> as in other reſpects, ſo in the way appointed for conviction by any one <hi>Juſtice</hi> with<g ref="char:EOLhyphen"/>out a Jury. And who knows but Himſelf or his Wife may be a Diſſenter before they die; and his Children be ſuch after him? —<hi>The Liberties, Eſtates, Trades, Dwellings, Country,</hi> yea
+<hi>Lives</hi> of good and peaceable Subjects are by one or other of theſe Laws expoſed to loſs for worſhipping God in the beſt manner they can, becauſe of ſome inconformity to the com<g ref="char:EOLhyphen"/>mon mode. <hi>Tantum Religio potuit!</hi> &amp;c.</p>
+            <p>A worthy Houſe of Commons in Parliament (I think two of them) in the latter end of the Reign of King <hi>Charles</hi> the Second, after the Diſcovery of the <hi>Popiſh</hi> Plot, Voted againſt the Execution of the Penal Laws againſt <hi>Proteſtant Diſſenters:</hi> But (alas!) they were <hi>Abhorred</hi> for it (one of the moſt diſ<g ref="char:EOLhyphen"/>ingenuous
+<pb n="7" facs="tcp:171932:4"/>actions of a people towards their own <hi>Repreſentatives,</hi> and ſuch wiſe Senators, that have been ſeen.</p>
+            <p>My Lords the Biſhops have (as is reported) not only by former, but later promiſes put their Fellow-Proteſtants, the Diſſenters, in Hope of a <hi>due Liberty,</hi> which muſt be full and without any enſnaring Condition, or elſe it will not be ac<g ref="char:EOLhyphen"/>counted due. For although the Diſſenters thankfully receive <hi>Liberty</hi> to worſhip God according to their Light, as an
+<hi>Almes</hi> from the Government; yet they ſuppoſe it, in its full Lati<g ref="char:EOLhyphen"/>tude, their
+<hi>Due</hi> by Chriſt's Law.</p>
+            <p>
+               <hi>And</hi> they Hope, that this Great and Wiſe Prince, whoſe Heart God has touched with ſuch a Zeal for the Proteſtant Re<g ref="char:EOLhyphen"/>ligion, will be (under God) a great Inſtrument of breaking every Yoke, and letting the Oppreſſed go free, and thereby unite all Proteſtants to a chearful and unanimous Defence of their Countrey, and Oppoſition to Popery; That no Prote<g ref="char:EOLhyphen"/>ſtant Diſſenter may ſay; —Wherefore were the former days better than theſe? —And (alas!) that Papiſts ſhould deal better with us, than Fellow Proteſtants; like the old Lamen<g ref="char:EOLhyphen"/>tation,—<hi>Heu, quod praeſtet infidelitas quod non praeſtitit fides!</hi> —If Popery give Liberty to Proteſtants, is not <hi>Popery,</hi> in this, be<g ref="char:EOLhyphen"/>come
+<hi>Proteſtantiſm?</hi> and if Proteſtants perſecute Fellow-Pro<g ref="char:EOLhyphen"/>teſtants, is not
+<hi>Proteſtantiſm,</hi> in this, become <hi>Popery?</hi> I al<g ref="char:EOLhyphen"/>lude to <hi>Rom.</hi> 2.25, 26,
+27.</p>
+            <p>
+               <hi>Now,</hi> in this matter, there is a two-fold Wiſh, and Peti<g ref="char:EOLhyphen"/>tion.</p>
+            <p n="1">(1.) To the <hi>Great Convention,</hi> which although it conſiſts of the ſame Lords which uſually conſtitute the Houſe of Peers in Parliament, and of the ſame Commons for number and manner of Election, which uſually conſtitute the Houſe of Commons in Parliament: Yet being the Repreſentative of the whole Kingdom gathered together in an extraordinary caſe and manner, and for extraordinary ends, it ſeemeth to be ſomething greater, and of greater power, than a Parliament. —If the whole Nation, thus aſſembled, ſhall deliberate a<g ref="char:EOLhyphen"/>bout and ſettle a <hi>New Government</hi> (as if they were to begin the World again) this ſeemeth to be a Tranſcendent, Extraordina<g ref="char:EOLhyphen"/>ry
+<pb n="8" facs="tcp:171932:5"/>and Original power, beyond what they could exert, as a Parliament. And they who can do this, what can they not do? <hi>cui licet quod majus eſt, ei id quod minus eſt non debet non li<g ref="char:EOLhyphen"/>cere.</hi> And though this great Convention may think fit to leave the repealing or altering of particular Statutes to the or<g ref="char:EOLhyphen"/>dinary legiſlative power, when ſetled; Yet, may it not be judged meet by this Convention in their erecting a new build<g ref="char:EOLhyphen"/>ing to lay ſuch foundations, (while the ſenſe of their danger and deliverance is upon them) as may prevent the return of the evils complained of, and prevent them more effectually (if God be with us) than an act of Parliament can do? —And the humble petition is, That it may pleaſe this great Aſſembly not to leave the Proteſtant Diſſenters bound (as <hi>Felix</hi> did <hi>Paul,</hi>) but to make Liberty in matters of Religion for them (I meddle not with others, though I with all men well) I ſay, Liberty for Proteſtant Diſſenters;) a <hi>Stone</hi> in the Foundation of the <hi>New Building,</hi> than which (as the petitioner believeth) never will any man find a Squarer, Fitter, Stronger, better to lay in the Foundation of a Government. And if this <hi>great Con<g ref="char:EOLhyphen"/>vention</hi> ſhall be pleaſed to do this (which it may be harder to get done in another time and way) 'tis already manifeſt by the Prince's Declaration and otherwiſe, that to <hi>His Highneſs,</hi> it would be very acceptable.</p>
+            <p>And why ſhould not His Government (if that ſhall be agreed on) be hereby Endeared to all the Proteſtants? And does not the Condition and Safety of the Nation re<g ref="char:EOLhyphen"/>quire an Union of Proteſtants? (not by the harſh and impoſ<g ref="char:EOLhyphen"/>ſible way of an Enforced Uniformity, but by a Gracious Li<g ref="char:EOLhyphen"/>berty.) —Can it be reaſonably ſuppoſed, that Diſſenting Proteſtants will be able chearfully to Engage in their Trades (by which the Riches of King and Kingdom are encreaſed) while they are liable every day to undoing Penalties Worſhipping of God? —And will it be a fair Encouragement for them to venture their Lives in the High places of the Field (it may be, in a Foreign Nation) to remember, that, if they eſcape Death, and return Home, the next place they ſhall lodge in may be a Gaol for Life upon a <hi>Capias Excommu<g ref="char:EOLhyphen"/>nicatum,</hi> and that their Eſtates may be pulled to pieces upon the Statute of twenty pound a month, for not coming to Church, or ſome other Penal Laws?</p>
+            <pb n="9" facs="tcp:171932:5"/>
+            <p>And the Petitioner adds his fear, that if care be taken only for our Civil <hi>Liberties,</hi> and no pitty ſhewed to them, who have been ſo long oppreſſed in their Spiritual or Religious Li<g ref="char:EOLhyphen"/>berties, God's controverſy will not yet be at an end with us: And ſhall we provoke the Lord to jealouſy? Are we ſtronger than he? His late works ſhew we are not.</p>
+            <p n="2">(2.) To the enſuing <hi>Parliament,</hi> The humble Petition is, That the Government would be pleaſed to Repeal all the Penal Laws, in ſo far, as concerns <hi>Proteſtant Diſſenters,</hi> and that none of them may hereafter ſuffer for not coming to Church, or other Non-Conformity; or for Worſhipping God in their own Meetings, according to their own beſt light and underſtanding of God's Word: particularly, that the Laws againſt Conventicles, the Five-mile Act, the Sta<g ref="char:EOLhyphen"/>tute of the 35th of Queen <hi>Elizabeth,</hi> (a Repeal of which laſt once already paſſed both Houſes) with other the like, may be Repealed.</p>
+            <p n="2">II. Thus far as to <hi>Popery:</hi> ſomewhat more is added as to <hi>Slavery,</hi> and the means of preventing it.</p>
+            <p>Upon the Reſtauration of King <hi>Charles</hi> the Second, there ſeems to have been a Bending of the Stick to the other <hi>Ex<g ref="char:EOLhyphen"/>treme,</hi> and that (He coming in, without Terms) the
+<hi>Prero<g ref="char:EOLhyphen"/>gative</hi> gained much upon the <hi>Liberties</hi> of the People, and has been upon the gaining hand ever ſince.</p>
+            <p>Here is a Gracious and Magnanimous Prince, no Friend to Arbitrary &amp; Deſpotic Government: Were it not good to pro<g ref="char:EOLhyphen"/>cure the repeal of ſome late Laws which trench upon the Rights of the Subject, and the paſſing of ſome Laws for their preſer<g ref="char:EOLhyphen"/>vation?</p>
+            <p n="1">I. One of the chief Fences againſt Arbitrary Government is the frequent aſſembling of free Parliaments. There are Laws in force for this. Two Statutes appoint a Parliament every Year; <hi>v.</hi> 4 <hi>Ed.</hi> 3.14. and 36 <hi>Ed.</hi> 3.10. There was alſo a Law for a Triennial Parliament made in the time of King <hi>Charles</hi> the firſt, which was repealed (if indeed it be repealed, for the matter is doubtful) and another act for a Triennial Par<g ref="char:EOLhyphen"/>liament
+<pb n="10" facs="tcp:171932:6"/>(which ſome eſteemed a <hi>New Nothing</hi>) paſſed in its room.</p>
+            <p n="1">(1.) Were it not good, that for the next Reign there be a Parliament once in a Year; and afterwards the old Act for a Triennial Parliament, being revived, to take place, and be obſerved. Frequent Parliaments would make Miniſters of State, and Judges (if any of them ſhould attempt to winde up the Government to a Tyranny) afraid of a Day of Account in this World, though of that in the next, they ſhould be <hi>ſecure.</hi>
+            </p>
+            <p n="2">(2.) And, were it not good, that this expenſive and vile way of compaſſing a Seat in the Houſe of Commons in Parlia<g ref="char:EOLhyphen"/>ment, by Hiring the Votes of the Countrey, and making people drunk, ſhould be laid aſide? And that whoſoever ſhall in a County ſpend above—, or in a City, Burrough or Cinqueport above—to procure or reward Suffrages, ſhould be diſabled to Sit, and the matter being well proved before a Committee for Elections, the Election ſhould be void?</p>
+            <p n="3">(3.) We have had an Inſtance of purchaſing the Liberties and Money of the Nation by Penſions paid to Members in a Parliament, which Poſterity will know by a Name taken from that practice: Is it not fit, that the like be prevented, for the future by the Higheſt Penalties upon the Givers and Receivers of ſuch Penſions?</p>
+            <p n="4">(4.) Were it not good to appoint Penalties upon Sheriffs and other Officers, who ſhall make falſe and undue Returns of Members of the Houſe of Commons in Parliament, higher than any Law hath yet appointed, and more proportionable to ſo grand and pernicious an Offence; with a way for the more eaſie Levying of ſuch Penalties?</p>
+            <p n="5">(5.) And, if the Privilege of Parliament hath ſuffered any diminution in the Caſe of
+<hi>Fitz-Harris,</hi> or of them, who had and pleaded Pardons to defeat impeachments made in Parlia<g ref="char:EOLhyphen"/>ment by the Commons of <hi>England</hi> for High Treaſon, Proviſion may be made, that ſuch things may not for the future be drawn into Example.</p>
+            <pb n="11" facs="tcp:171932:6"/>
+            <p n="6">(6.) Whether ſomething ſhould not be done (if it ſhall be found needful) to reconcile the King's <hi>Negative Voice</hi> to Bills in Parliament with his Coronation-Oath, whereby he ſwears to conſent to, or confirm Laws, <hi>quas Vulgus Elegerit?</hi>
+            </p>
+            <p n="7">(7.) What if Power were given by Law to the Speaker, or any Committee of the Houſe of Commons to adminiſter an Oath in matters concerning the Privileges of their own Houſe?</p>
+            <p n="2">II. Since the Reſtauration, there hath been ſuch a Deter<g ref="char:EOLhyphen"/>mination of the Queſtion, which was diſputed between King <hi>Charles</hi> the Firſt, and the firſt
+<hi>Long-Parliament,</hi> touching the <hi>Militia,</hi> as, in effect makes the Government <hi>in proximâ poten<g ref="char:EOLhyphen"/>tentiâ,</hi> at leaſt of becoming <hi>Arbitrary</hi> (as ſome think) With reſpect to that, may it be conſidered,</p>
+            <p n="1">(1.) Whether it be not meet by Law to Limit the num<g ref="char:EOLhyphen"/>ber of the King's Guards?</p>
+            <p n="2">(2.) To provide againſt a Standing Army within the Kingdom by Indiſpenſable Laws, making it High Treaſon for any Commanders, Officers or Souldiers (beſides the King's allowed Guards) to enter into ſuch a Standing Army with<g ref="char:EOLhyphen"/>in the Kingdom without Conſent of Parliament; And that no Army be raiſed, or continued without Act of Parliament.</p>
+            <p n="3">(3.) To put the County Militia's into ſuch hands and ſuch a frequent exerciſe, as may make them (with Gods bleſſing) the ordinary and ſufficient guard of the Nation; And, while the preſent condition of the Kingdom requires the continu<g ref="char:EOLhyphen"/>ance of <hi>Standing Forces</hi> to repel a <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Invaſion,</hi> that they be continued with the greateſt caution againſt it's making a <hi>Praecedent,</hi> and being drawn into future practice; and with ſuch Diſcipline as may prevent their oppreſſing and corrupting the People, as the late <hi>Army</hi> did.</p>
+            <p n="3">III. In regard divers evils were judged to have ariſen from the delivering of
+<hi>Petitions</hi> in <hi>Anno</hi> 
+               <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <hi>&amp;c.</hi> by great multi<g ref="char:EOLhyphen"/>tudes,
+<pb n="12" facs="tcp:171932:7"/>another extreme ſeems to have been incurred, where<g ref="char:EOLhyphen"/>by a juſt and reaſonable Liberty of the Subject is abridged, if not taken away, by a Statute ſince the Reſtauration againſt <hi>Peti<g ref="char:EOLhyphen"/>tioning:</hi> And yet when it ſerved to promote a deſign, how were tumultuary Addreſſes and <hi>Abhorrences</hi> encouraged, to the running down of Parliaments, by whom the mind of the King<g ref="char:EOLhyphen"/>dom ſhould have been made known?</p>
+            <p>In this caſe, were it not good to review the Statute of King <hi>Charles</hi> the Second againſt <hi>Petitioning,</hi> and ſettle that matter according to right?</p>
+            <p n="4">IV. It was foretold by a late great Judge (the ornament of his Profeſſion, of his Age and of his Nation) that <hi>Slavery</hi> would be introduced by <hi>Weſtminſter-Hall.</hi> In this caſe may it be conſidered,</p>
+            <p n="1">(1.) Whether it be not fit, that ſome publique Juſtice be done upon the betrayers of the Kingdoms Liberties (as of old, on <hi>Hubert de Burgh, Treſilian, Belknap &amp;c.</hi> more lately, on the Judges who gave their opinions for <hi>Ship-money?</hi>) Impunity gives a Licenſe to offend.</p>
+            <p n="2">(2.) That ſuch perſons only be hereafter made Judges, or other Dignitarys in the Law, as are duly qualified with Know<g ref="char:EOLhyphen"/>ledge in the Laws, Wiſdom, Juſtice, Courage, and (if it be poſſible) with the Fear of God; That there may not be cauſe to revive the late waggiſh repreſentation of twelve Puppets in the Robes of Judges, ſpeaking out whatſoever the manager behind the Curtain made them ſpeak.</p>
+            <p n="3">(3.) That ſuch Judges may hold their Places, <hi>quamdiu ſe be<g ref="char:EOLhyphen"/>ne geſſerint,</hi> as heretofore and not <hi>durante bene-placito</hi> on<g ref="char:EOLhyphen"/>ly.</p>
+            <p n="5">V. Calling in the Charters by the known Methods of <hi>Quo Warranto's,</hi> Sollicitations and Threats is generally acknow<g ref="char:EOLhyphen"/>ledged to have been a <hi>mean</hi> of bringing the Kingdom into a very ill condition. It were eaſy to dilate upon the miſchiefs. —Upon this, two wiſhes are humbly propounded.</p>
+            <pb n="13" facs="tcp:171932:7"/>
+            <p n="1">(1.) That the <hi>Charters</hi> (the foundations of many Genera<g ref="char:EOLhyphen"/>tions) that of
+<hi>London</hi> eſpecially, may all of them of be reſtored to their full Vigour by an Act of Parliament; with proviſion againſt the like Invaſion in time to come.</p>
+            <p n="2">(2.) That they, in whoſe Heads this evil Counſel and Device firſt grew, if living, may make Attonement to the Kingdom for this, by better Counſels and Services for the future.</p>
+            <p n="6">VI. <hi>The diſpenſing Power,</hi> as uſed, is accounted ſo terrible an Engine, and ſo lately Felt, and Feared; That the Limit<g ref="char:EOLhyphen"/>ing and Setling of that, according to reaſon, will certainly not be forgotten. They who by their Judgments and Arguments made it paſs in an Extraordinary Extent for Legal Prero<g ref="char:EOLhyphen"/>gative, do not deſerve well either of King or King<g ref="char:EOLhyphen"/>dom.</p>
+            <p n="7">VII. The Examination of the Great point, concern<g ref="char:EOLhyphen"/>ing the Prince of <hi>Wales,</hi> (while things are freſh and in memory) ſeems to deſire a Parliament. That the truth of the matter may be found out and made apparent, to the Satisfaction of the preſent and of the future Age. And, if there have been any Leagues with <hi>France</hi> againſt Pro<g ref="char:EOLhyphen"/>teſtant Religion, were it not good to have them made ma<g ref="char:EOLhyphen"/>nifeſt?</p>
+            <p>A few more Wiſhes ſhall put an End to theſe <hi>Mem<g ref="char:EOLhyphen"/>randums.</hi>
+            </p>
+            <p n="1">(1.) That, if, in this <hi>Convention,</hi> the Nation meets in its higheſt Capacity and Original Power; <hi>(i.e.)</hi> Where<g ref="char:EOLhyphen"/>by they are able to chooſe to themſelves a
+<hi>Government;</hi>) They would do all the Good they can, and not leave all to an uncertain Succeſs in future <hi>Parliaments.</hi> If this <hi>Con<g ref="char:EOLhyphen"/>vention</hi> can do any thing, cannot it make Laws truly <hi>Fun<g ref="char:EOLhyphen"/>damental,</hi> and which ſhall have the ſame Firmitude and continuance as the Government it ſets up? And, may Liberty for <hi>Proteſtant-Diſſenters,</hi> as before, be one of thoſe <hi>Fundamen<g ref="char:EOLhyphen"/>tals!</hi> Amen.</p>
+            <pb n="14" facs="tcp:171932:8"/>
+            <p n="2">(2.) May the Deaths of the Late Earl of <hi>Eſſex,</hi> and of others, whom publick Fame reports to have been <hi>Murdered,</hi> be Enquired of, and the Guilty of ſuch tranſcendent Offen<g ref="char:EOLhyphen"/>ces, it any, be brought to puniſhment, to the Glory of God, and the Freedom or the Kingdom from ſuch Blood-guiltineſs. —Alas! the Nation contracts the guilt of too much Blood, almoſt at every Aſſizes, in one place or other; it being or<g ref="char:EOLhyphen"/>dinary for Voluntary Homicide, contrary to God's Law, to go unpuniſhed; eſpecially where the Offenders are Perſons of Quality or Eſtates, or are Souldiers. And this Impunity is cauſed much by an <hi>ill Diſtinction</hi> between Murder and Vo<g ref="char:EOLhyphen"/>luntary Man-ſlaughter; And, ſometimes by a Bribed Clerks drawing the Indictment not <hi>Hanging faſhion</hi> (as one of them uſed to ſay:) As for Murder, when it ought to be upon the Statute of King <hi>James</hi> the Firſt againſt
+<hi>Stabbing, &amp;c.</hi> the other having no Weapon drawn; And too often by Pardons procured by ſome Courtier or Man of Intereſt, to the Draw<g ref="char:EOLhyphen"/>ing (as ſome fear) of Guilt upon the Throne.</p>
+            <p n="3">(3.) May the Subject not be over-charged with Oaths and Declarations; The uſe whereof has been little, but to Entan<g ref="char:EOLhyphen"/>gle the Conſcientious. When it was required, that we ſhould declare it utterly unlawful on any pretence whatſoever to take Arms againſt any Commiſſioned by the King, ſome very Loyal Subjects, who ſcrupled it, preſaged, that it was poſ<g ref="char:EOLhyphen"/>ſible <hi>Iriſh Papiſts,</hi> and ſuch like might be Commiſſioned; and that in ſuch Caſe, this Declaration might be a Renunciation of a Law of Nature, which Allows and Requires ſelf-preſerva<g ref="char:EOLhyphen"/>tion. And how are men enforced now to diſtinguiſh upon the Word (Commiſſion, or Commiſſioned?) I heard, a Grave man ſay, that he had made it his Obſervation, (and produced divers Inſtances to confirm it) That ſcarce any thing was ever publickly ſworn againſt by a Nation, but it af<g ref="char:EOLhyphen"/>terwards came in.</p>
+            <p n="4">(4.) May the Late Lord <hi>Ruſſels</hi> Poſterity (and the Earl of
+<hi>Eſ<g ref="char:EOLhyphen"/>ſex</hi>'s if need be) be reſtored in Blood and Honour by Act of Parliament!</p>
+            <pb n="15" facs="tcp:171932:8"/>
+            <p n="5">(5.) May Dr. <hi>Oates,</hi> Mr. <hi>Joh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſon,</hi> &amp;c. Be remembred.</p>
+            <p n="6">(6.) And, Laſtly, That all theſe things being honeſtly and innocently intended, none of them may be Offenſive, or ill taken.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
